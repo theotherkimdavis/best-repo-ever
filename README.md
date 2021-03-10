@@ -1,6 +1,11 @@
 # best-repo-ever
 
-Other changes to line 3.
+I changed line 3.
 
-Something else on Line 5.
-NO! Not line 6!
+And line 5.
+
+Even 7!
+This is my readme file. 
+I'm putting all the stuff here.
+It's all because of Trailhead.
+
